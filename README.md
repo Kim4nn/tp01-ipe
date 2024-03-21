@@ -16,12 +16,12 @@ The IPE TP01 us open-sourced software licensed under the [MIT license](https://o
 
 ## Example code
 Java code example:
-''' Java
+
     public class App {
         public static void main(String[] args) {
             System.out.println("Welcome to IPE TP01.");
             }
         }
-'''
+
 
 View it in GitHub you will see it looks good.
