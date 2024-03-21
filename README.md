@@ -10,11 +10,11 @@
 
 In order to ensure that everyone understand the subject, make sure everyone complete every 'Task Practice'.
 
-##License
+## License
 
 The IPE TP01 us open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-##Example code
+## Example code
 Java code example:
 '''Java
     public class App {
